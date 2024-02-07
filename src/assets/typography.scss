@@ -1,0 +1,50 @@
+// Reference: https://www.figma.com/proto/ud3cdacWP0uVYxVN0NiDPp/My-StyleGuide?type=design&node-id=2-361&t=Y7dQy1Uk9jC4mRMv-1&scaling=min-zoom&page-id=2%3A360&mode=design
+// Author: Felipe Augusto Janotte
+
+* {
+    font-family: Inter, sans-serif;
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+h5 {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+h6 {
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.subtitle {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+p,
+a,
+td,
+span,
+.text,
+button {
+    font-size: 1rem;
+}
